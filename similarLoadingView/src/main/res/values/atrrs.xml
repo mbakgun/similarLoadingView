@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="SimilarLoadingView">
+    <attr format="integer" name="similar_animDuration" />
+    <attr format="integer" name="similar_maxAlpha" />
+    <attr format="color" name="similar_color" />
+    <attr format="integer" name="similar_cornerRadius" />
+    <attr format="integer" name="similar_loadingDrawable" />
+  </declare-styleable>
+</resources>

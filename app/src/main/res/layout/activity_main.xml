@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayoutBackground"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <similar.io.view.SimilarLoadingView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        app:similar_animDuration="5000"
+        app:similar_cornerRadius="40"
+        app:similar_loadingDrawable="@drawable/loading"
+        app:similar_maxAlpha="225"
+        tools:visibility="gone" />
+
+</RelativeLayout>
