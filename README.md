@@ -39,7 +39,7 @@ similarLoadingView, is a custom loading view for Android. It is very easy to use
         app:similar_cornerRadius="40"
         app:similar_loadingDrawable="@drawable/loading"
         app:similar_maxAlpha="225" />
-     ```
+```
 	 
 You can find which attributes you can use on xml below
 
