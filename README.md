@@ -1,9 +1,13 @@
+# similarLoadingView : A stylish loading view for Android
 
-# similarLoadingView
-A stylish loading view for Android
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-similarLoadingView-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/6254)
+![](https://img.shields.io/github/license/mbakgun/similarLoadingView.svg)
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](http://twitter.com/share?text=Version+1.0.0+of+similarLoadingView+has+been+released%21+Grab+it+now+from+%23bintray+https%3A%2F%2Fbintray.com%2Fmbakgun%2FsimilarLoadingView%2FsimilarLoadingView%2F1.0.0%21)
+---
 
-
+<p align="center">
 <img src="/usage.gif" alt="similarLoadingView" width= "250px"/>
+</p>
 
 ## Implementation
 
@@ -66,7 +70,7 @@ Any questions:Please feel free to contribute by pull request, issues or feature 
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
 
-        http://www.apache.org/licenses/LICENSE-2.0
+    http://www.apache.org/licenses/LICENSE-2.0
 
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
